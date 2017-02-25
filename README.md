@@ -18,5 +18,3 @@ The output will be the union of the lines from the master and transaction files 
 
 
 This command is here just to illustrate the implementation of a balance line algorithm in go using goroutines and channels. This can be copied and modified for your own need.
-
-Of course I made this tool because I needed this functionality and it was fun writing it in go.
